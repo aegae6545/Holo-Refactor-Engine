@@ -1,0 +1,10 @@
+
+#### 2. `requirements.txt` (依赖库)
+
+```text
+openclaw-sdk>=2.6.0
+mimo-ai>=1.0.0
+pyyaml
+rich
+networkx
+matplotlib
